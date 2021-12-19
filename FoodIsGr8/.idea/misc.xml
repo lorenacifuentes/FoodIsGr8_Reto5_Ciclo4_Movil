@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/layout/activity_main2.xml" value="0.144" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/layout/activity_splash.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/layout/activity_splash_in.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/layout/activity_usuario.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__favoritos.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 3 Lorena/FoodIsGr8/app/src/main/res/menu/main_menu.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 4 Lorena/FoodIsGr8/app/src/main/res/layout/activity_2.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 4 Lorena/FoodIsGr8/app/src/main/res/layout/activity_main2.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 4 Lorena/FoodIsGr8/app/src/main/res/layout/activity_main4.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 4 Lorena/FoodIsGr8/app/src/main/res/layout/activity_sucursales.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 4 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__productos.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 4 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__sucursales.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_TraerJson.xml" value="0.1" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_crud.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_oracle_cloud.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_sucursales.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_traer_json_productos.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_traer_json_servicios.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/activity_traer_json_sucursales.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__favoritos.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__inicio.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__productos.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/fragment__servicios.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/layout/traer_json.xml" value="0.1203125" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos Finales/Reto 5 Lorena/FoodIsGr8/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/drawable/logo_background.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_login.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_main.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_main4.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_usuario.xml" value="0.176" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment__favoritos.xml" value="0.264" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment__inicio.xml" value="0.2" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment__productos.xml" value="0.152" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment__servicios.xml" value="0.176" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment__sucursales.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment_sobrenosotros.xml" value="0.4" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/layout/fragment_sobrenosotrosss.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto 2/foodisgr8/FoodIsGr8/app/src/main/res/menu/main_menu.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.134375" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/drawable/ic_launcher_background.xml" value="0.134375" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/drawable/logo_background.xml" value="0.134375" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_main2.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_main3.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/layout/activity_main4.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Lorena/Desktop/Aplicaciones Moviles Ciclo 4/Retos/Reto1/foodisgr8/FoodIsGr8/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/drawable/logo_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/2activity_main.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/activity_main3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/activity_main4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/fragment__inicio.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/fragment__productos.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/fragment__servicios.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/layout/fragment__sucursales.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/menu/main_menu.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/Miguel Cantor/AndroidStudioProjects/FoodIsGr8/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

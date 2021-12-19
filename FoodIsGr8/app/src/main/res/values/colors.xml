@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Naranja_Medio">#F57C00</color>
+    <color name="Hueso_Claro">#FFE0B2</color>
+    <color name="Naranja_Fuerte">#FF5722</color>
+    <color name="Naranja_Claro">#FF9800</color>
+    <color name="Gris_Claro">#BDBDBD</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

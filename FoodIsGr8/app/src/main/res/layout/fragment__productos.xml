@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".fragment_Productos">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+
+                <ImageView
+                    android:id="@+id/imageProd1"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:src="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Hamburguesa Vacana"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Una deliciosa hambuerguesa para disfrutar en cualquier momento del día con carne de res o pollo" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd2"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Hamburguesa Mexicana"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="¿Te gusta lo picante? te ofrecemos nuestra hamburguesa llena de jalapeños y la salsa de la casa " />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd3"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Hamburguesa Artesanal"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd3"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Una hamburguesa especialmente preparada para ti, cuenta con una de las mejores carnes de la cuidad" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd4"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pizza de Pollo y Tocineta"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Para los amantes de una buena pizza porque su sabor te hará pedir más de una" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd5"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pizza de Carnes"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Salchicha, jamón y tocineta son alguna de las carnes que tiene esta deliciosa pizza " />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd6"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pizza Hawaiiana"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd6"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Tal vez no le guste a todo el mundo pero sabemos que es tu favorita por eso la haremos más deliciosa" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd7"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Super Perro"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd7"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Perro caliente con papas, huevo de codorniz, salsas, queso, jamon, tocineta y los complementos que escojas" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="13dp">
+
+                <ImageView
+                    android:id="@+id/imageProd8"
+                    android:layout_width="160dp"
+                    android:layout_height="100dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textProd8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Perro sencillo"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/descriProd8"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Perro caliente con papas, jamon, queso y salsas al gusto " />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <Button
+                android:id="@+id/back"
+                android:layout_width="120dp"
+                android:layout_height="49dp"
+                android:text="regresar"
+                android:translationX="200dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
